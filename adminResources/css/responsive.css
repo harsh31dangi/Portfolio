@@ -1,0 +1,110 @@
+@media (max-width:1200px){	
+.single-portfolio-full-page > img{width:630px}
+
+}
+
+
+@media (max-width:980px){
+.block .container,.container{padding:0 15px}
+nav ul{display:none!important}
+.other-links.hidden{display:inline-block!important}
+.featured-area h1{font-size:40px;margin:0 0 10px}
+.featured-text p{font-size:15px}
+.featured-text{
+    background:rgba(0, 0, 0, 0) url() repeat scroll center / cover;
+    float:left;
+    position:relative;
+    top:0;
+    width:100%;
+    -webkit-transform:translate(0);
+    -moz-transform:translate(0);
+    -ms-transform:translate(0);
+    -o-transform:translate(0);
+    transform:translate(0);
+}
+.block.no-padding .featured-text{padding:80px 0}
+.featured-text.opacity:before,
+.featured-area.layer .featured-text:before{display:block}
+.featured-area > img{display:none}
+header,header.style2{padding:30px 15px}
+header .container{padding:0;width:100%}
+header.style2 .logo{width:auto}
+header.style2 nav{float:right;margin:5px 0 0;width:auto}
+.masonary > div{float:left;width:50%}
+.featured-text .btn{border:3px solid;font-size:16px;margin:20px 0 0;padding:10px 20px}
+.revive-blog .row > div{display:inline-block;margin:0 -1px;text-align:left;width:50%}
+.revive-blog{text-align:center}
+.featured-area.style2 .featured-text .container .row > div{float:left;margin:0 0 40px;width:100%}
+.featured-area.style2 .featured-text .container .row > div:last-child{margin:0}
+.revive-addbar{display:unset}
+.addbar-text{display:unset;float:left;margin:0 0 30px;width:100%}
+.revive-addbar .btn{display:unset;float:left}
+.service-title{display:unset;float:left;width:100%}
+.services-list{display:unset;float:left;padding:30px;width:100%}
+.title-box{width:90%}
+.theme-layout.sidemenu-still{padding-left:30px}
+.theme-layout.sidemenu-still .sidemenu{left:-270px}
+.theme-layout.sidemenu-still .sidemenu:hover{left:0}
+.featured-text.style3 h1{font-size:40px}
+.featured-text.style3 h2{font-size:25px}
+.scrolldown{display:none}
+.featured-text.style4 h1{font-size:40px}
+.featured-text h2{font-size:18px;margin:0 0 20px}
+.featured-area ul li{font-size:13px}
+.revive-team .row > div{display:inline-block;margin:0 -1px;text-align:left;width:50%}
+.revive-team{text-align:center}
+.admin-inner > img{display:unset;float:none;max-width:100%}
+.admin-detail{display:unset;float:left;padding:40px 0 0;width:100%}
+.admin-social{display:unset;float:left;margin:20px 0 0;padding:0;width:100%}
+.admin-inner{display:unset;float:left;padding:30px;text-align:center}
+aside.sidebar{float:left;margin:50px 0 0;width:100%}
+.gallery-widget .row > div{float:left;width:16.666%}
+.portfolio-big-image{padding:15px 15px 30px}
+.single-portfolio-full-page > img{display:unset;float:left;width:100%}
+.portfolio-detail.style2{display:unset;float:left;padding:30px;width:100%}
+.other-links.hidden a{display:block}
+}
+
+
+@media (max-width:768px){
+.sidemenu-top{margin-bottom:20px}
+.sidemenu > ul{max-height:240px}
+.revive-search .container{width:100%}
+.revive-search form button{font-size:20px}
+.revive-search form input{font-size:20px;padding:10px}
+.title h2{font-size:30px}
+.review:before{font-size:140px;top:-10px}
+.pagetop h1{text-align:center;width:100%}
+.breadcrumbs{margin:20px 0 0;text-align:center;width:100%}
+.breadcrumbs > li{display:inline-block;float:none}
+.pagetop{background-size:cover;padding:50px 0}
+.avatar{display:unset}
+.comment-text{display:unset;float:left;padding:30px 0 0;width:100%}
+.comments-section ul ul{padding:0}
+.comments-section > ul{padding:30px}
+.map > div{min-height:300px}
+}
+
+@media (max-width:480px){
+.featured-area h1{font-size:30px}
+.masonary > div{width:100%}
+footer p{text-align:center;width:100%}
+.socials{margin-top:10px;text-align:center;width:100%}
+.socials > a{display:inline-block;float:none}
+.featured-text.style2 p{padding:0}
+.revive-blog .row > div{float:left;margin:0;width:100%}
+.title-box{padding:30px}
+.title-box > h4{font-size:30px;letter-spacing:0}
+.title-box > p{font-size:15px}
+.revive-service > span{display:unset;height:80px}
+.revive-service > span i{font-size:30px;height:80px;line-height:80px;width:80px}
+.service-text{display:unset;float:left;padding:40px 0 0;width:100%}
+.logos > li{width:33.334% !important}
+.revive-team .row > div{width:100%}
+.post-title{font-size:30px}
+blockquote{padding:40px}
+blockquote:before{left:20px}
+blockquote:after{right:20px}
+.gallery-widget .row > div{width:33.334%}
+.portfolio-detail > h1{font-size:30px}
+}
